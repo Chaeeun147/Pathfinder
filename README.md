@@ -15,7 +15,6 @@ PCB:
 
 
 BOM:
-BOM:
 | Pert Name | Quantity | Description | Cost | Link  |
 | --------- | -------- | ----------- | ---- | - |
 | LED | 10 | Light | $1.17 | https://www.aliexpress.com/item/32759416007.html?spm=a2g0o.productlist.main.25.5ad45d4fBpD18Y&algo_pvid=c7d3ffdf-054c-4a00-8b1f-7dc1258b8f89&algo_exp_id=c7d3ffdf-054c-4a00-8b1f-7dc1258b8f89-24&pdp_ext_f=%7B%22order%22%3A%2263%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%212.47%211.60%21%21%211.76%211.14%21%402103110517740490152535062ebe05%2112000027866463708%21sea%21CA%217451194651%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8fd05d1b%3Bm03_new_user%3A-29895%3BpisId%3A5000000197831969&curPageLogUid=rJeiEFxpdOuU&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32759416007%7C_p_origin_prod%3A |
